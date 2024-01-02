@@ -28,5 +28,3 @@ Please have a look at the countwodn_test mod, which shows a minimal example of h
 After warn time I set the text color to red:
 
 ![Screenshot 2024-01-02 at 11 26 38](https://github.com/holgerm/countdown/assets/60585/a829dc81-b198-4485-ac5d-2b84cd81e0d6)
-
-
